@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struktogramm fontfamily="83;101;114;105;102;" fontstyle="0" fontsize="15" caption="-1;">
+  <strelem typ="1" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+    <text>87;97;114;101;32;97;117;102;32;76;97;103;101;114;</text>
+    <fall fallname="74;97;">
+      <strelem typ="1" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+        <text>75;117;110;100;101;32;104;97;116;32;105;109;109;101;114;32;103;101;122;97;104;108;116;</text>
+        <fall fallname="74;97;">
+          <strelem typ="0" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+            <text>87;97;114;101;32;97;117;102;32;82;101;99;104;110;117;110;103;32;118;101;114;107;97;117;102;101;110;</text>
+          </strelem>
+        </fall>
+        <fall fallname="78;101;105;110;">
+          <strelem typ="0" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+            <text>87;97;114;101;32;103;101;103;101;110;32;66;97;114;122;97;104;108;117;110;103;32;118;101;114;107;97;117;102;101;110;</text>
+          </strelem>
+        </fall>
+      </strelem>
+    </fall>
+    <fall fallname="78;101;105;110;">
+      <strelem typ="1" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+        <text>75;117;110;100;101;32;104;97;116;32;105;109;109;101;114;32;103;101;122;97;104;108;116;</text>
+        <text>111;100;101;114;32;122;97;104;108;116;32;98;97;114;</text>
+        <fall fallname="74;97;">
+          <strelem typ="0" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+            <text>87;97;114;101;32;98;101;115;116;101;108;108;101;110;</text>
+          </strelem>
+        </fall>
+        <fall fallname="78;101;105;110;">
+          <strelem typ="0" zx="0" zy="0" textcolor="-16777216" bgcolor="-1">
+            <text>66;101;115;116;101;108;108;117;110;103;32;97;98;119;101;105;115;101;110;</text>
+          </strelem>
+        </fall>
+      </strelem>
+    </fall>
+  </strelem>
+</struktogramm>
+
